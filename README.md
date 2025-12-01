@@ -1,4 +1,4 @@
-# Agenda IA – Assistente de Google Calendar com IA
+# Assistente de Google Calendar com IA
 
 Aplicação fullstack que integra uma IA com o Google Calendar para criar, editar e deletar eventos a partir de comandos em linguagem natural.
 
