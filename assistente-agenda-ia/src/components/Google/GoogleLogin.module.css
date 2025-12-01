@@ -1,0 +1,30 @@
+.contianer {
+
+}
+
+.btnGoogle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btnGoogle {
+  margin-top: 40px;
+}
+
+.btnGoogle button {
+  background-color: #d03636;
+  width: 100%;
+  padding: 0.75rem;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.btnGoogle button:hover {
+  background-color: #b10f0f;
+}
